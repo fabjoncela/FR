@@ -8,17 +8,21 @@ body {
   background-color: black;
   color: white;
 }
+
 .rick {
   border: 5px solid white;
   width: 100%;
 }
+
 h1 {
   text-align: center;
   text-transform: uppercase;
 }
+
 p {
   text-align: center;
 }
+
 .theDiv {
   width: 50%;
   margin-left: 25%;
